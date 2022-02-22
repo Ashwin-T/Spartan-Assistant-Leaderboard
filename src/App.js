@@ -1,27 +1,12 @@
-import Leaderboard from './Leaderboard';
+import Source from './Source';
+import {Routes, Route} from "react-router-dom";
 const App = ()=>{
-  
 
-  const handleNewLink = (url)=>{
-    window.open(url, '_blank');
-  }
-  const url1 = 'https://the-spartan-assistant.web.app/';
-  const url2 = 'https://the-spartan-assistant.web.app/';
   return (
    <>
-      <div className="container flex column center">
-        <br />
-        <div className="flex column center center">
-          <h1>Spartan Assistant Leaderboard</h1>
-          <br />
-          <Leaderboard />
-          <div className="buttons flex center">
-            <button onClick = {()=>handleNewLink(url1)}>Visit the Site</button>
-            <button onClick = {()=>handleNewLink(url2)}>Report a Bug</button>
-          </div>
-          
-        </div>
-      </div>
+        <Routes>
+          <Route path="/" element={<Source />}></Route>
+        </Routes>
    </>
   );
 }

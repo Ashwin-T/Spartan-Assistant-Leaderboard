@@ -1,8 +1,11 @@
+import gold from './images/first.jpg'
+import silver from './images/second.jpg'
+import bronze from './images/third.jpg'
 const LeaderBar = ({name, major, minor, spelling, place}) => {
     const images = [
-        'images/first.jpg',
-        'images/second.jpg',
-        'images/third.jpg',
+        gold,
+        silver, 
+        bronze
     ]
 
     return (  

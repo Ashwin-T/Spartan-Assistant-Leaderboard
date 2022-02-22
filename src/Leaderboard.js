@@ -1,14 +1,22 @@
 import Bar from './Bar';
 import LeaderBar from './LeaderBar';
+
 const Leaderboard = () => {
 
     const scores = [
+        {
+            name: 'Aidan S',
+            major: 0,
+            minor: 1,
+            spelling: 0,
+            place: 4
+        },
         {
             name: 'Ryan D',
             major: 0,
             minor: 0,
             spelling: 1,
-            place: 4
+            place: 5
         },
     ]
 
