@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spartan-assistant-leaderboard/static/css/main.2785a09e.css",
+    "main.js": "/spartan-assistant-leaderboard/static/js/main.0ffe36ed.js",
+    "index.html": "/spartan-assistant-leaderboard/index.html",
+    "main.2785a09e.css.map": "/spartan-assistant-leaderboard/static/css/main.2785a09e.css.map",
+    "main.0ffe36ed.js.map": "/spartan-assistant-leaderboard/static/js/main.0ffe36ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2785a09e.css",
+    "static/js/main.0ffe36ed.js"
+  ]
+}
