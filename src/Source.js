@@ -6,7 +6,7 @@ const handleNewLink = (url)=>{
     window.open(url, '_blank');
     }
     const url1 = 'https://the-spartan-assistant.web.app/';
-    const url2 = 'https://the-spartan-assistant.web.app/';
+    const url2 = 'https://docs.google.com/forms/d/e/1FAIpQLSdVcVyxVOaeMmYZ5bIzQAHq4ID84z0oegQfG8YbXFu17IT3WQ/viewform?usp=sf_link&urp=gmail_link';
 
 return(
     <div className="container flex column center">
