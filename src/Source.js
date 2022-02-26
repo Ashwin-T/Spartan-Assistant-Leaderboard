@@ -16,7 +16,7 @@ return(
         <br />
         <Leaderboard />
         <h3>
-            Bugs Solved: 12       
+            Bugs Solved: 15😤       
         </h3>
         <br/>
         <div className="buttons flex center">

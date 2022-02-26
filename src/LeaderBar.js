@@ -21,7 +21,7 @@ const LeaderBar = ({name, major, minor, spelling, place}) => {
                 <div className="bar-content flex" style = {{justifyContent: 'space-around', alignItems: 'center'}}>
                     <p>Major: {major}</p>
                     <p>Minor: {minor}</p>
-                    <p>Spelling: {spelling}</p>
+                    <p>Spelling/Small: {spelling}</p>
                 </div>
                
             </div>        

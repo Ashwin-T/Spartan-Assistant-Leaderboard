@@ -8,7 +8,7 @@ const Leaderboard = () => {
             name: 'Aidan S',
             major: 0,
             minor: 1,
-            spelling: 0,
+            spelling: 1,
             place: 4
         },
         {
@@ -16,23 +16,30 @@ const Leaderboard = () => {
             major: 0,
             minor: 0,
             spelling: 1,
-            place: 5
+            place: 4
         },
+        {
+            name: 'Esin D',
+            major: 0,
+            minor: 0,
+            spelling: 1,
+            place: 4
+        }
     ]
 
     const leaders = [
+        {
+            name: 'Cameron W',
+            major: 0,
+            minor: 2,
+            spelling: 1,
+            place: 1
+        },
         {
             name: 'Wyatt C',
             major: 0,
             minor: 1,
             spelling: 2,
-            place: 1
-        },
-        {
-            name: 'Cameron W',
-            major: 0,
-            minor: 1,
-            spelling: 1,
             place: 2
         },
         {
