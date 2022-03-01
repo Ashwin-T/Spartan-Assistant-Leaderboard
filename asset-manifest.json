@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Spartan-Assistant-Leaderboard/static/css/main.5400ca7e.css",
-    "main.js": "/Spartan-Assistant-Leaderboard/static/js/main.126ce941.js",
+    "main.js": "/Spartan-Assistant-Leaderboard/static/js/main.dd38ac86.js",
     "static/media/third.jpg": "/Spartan-Assistant-Leaderboard/static/media/third.3071aaa6b722e464ffbe.jpg",
     "static/media/first.jpg": "/Spartan-Assistant-Leaderboard/static/media/first.49ba9f8eb33bd3e543dc.jpg",
     "static/media/second.jpg": "/Spartan-Assistant-Leaderboard/static/media/second.c34f887c668586eedafa.jpg",
     "index.html": "/Spartan-Assistant-Leaderboard/index.html",
     "main.5400ca7e.css.map": "/Spartan-Assistant-Leaderboard/static/css/main.5400ca7e.css.map",
-    "main.126ce941.js.map": "/Spartan-Assistant-Leaderboard/static/js/main.126ce941.js.map"
+    "main.dd38ac86.js.map": "/Spartan-Assistant-Leaderboard/static/js/main.dd38ac86.js.map"
   },
   "entrypoints": [
     "static/css/main.5400ca7e.css",
-    "static/js/main.126ce941.js"
+    "static/js/main.dd38ac86.js"
   ]
 }
